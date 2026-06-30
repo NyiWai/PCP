@@ -34,7 +34,7 @@ export default function Header({ onMenuClick }) {
             </span>
             <div className="min-w-0 leading-tight">
               <p className="font-display text-[15px] sm:text-[30px] font-semibold tracking-tight truncate">
-                Pre-College Program(PIU-PCP)
+                Pre-College Program
               </p>
               <p className="hidden sm:block text-[15px] text-academic-200 tracking-wide truncate">
                 Diploma in Social Science
