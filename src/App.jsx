@@ -49,7 +49,8 @@ export default function App() {
           <Route path="/gallery" element={<GalleryPage />} />
           <Route path="/location" element={<LocationPage />} />
           <Route path="/contact" element={<ContactPage />} />
-          <Route path="*" element={<AdminPage />} />
+          <Route path="/admin" element={<AdminPage />} />
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
 
