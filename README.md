@@ -69,3 +69,4 @@ To connect them to a real backend, replace the `handleSubmit` functions in `Appl
 Colors and fonts are defined in `tailwind.config.js` (`academic` = primary blue scale, `gold` = accent,
 `ink` = near-black text). Fonts: Fraunces (headings) + Inter (body) + JetBrains Mono (eyebrow labels),
 loaded via Google Fonts in `index.html`.
+# PCP
