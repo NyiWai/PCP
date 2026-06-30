@@ -62,12 +62,12 @@ export default function Header({ onMenuClick }) {
                   ))}
                 </nav>
 
-        <a
-          href="/apply"
+        <Link
+          to="/apply"
           className="shrink-0 text-xs sm:text-sm font-medium bg-gold-400 hover:bg-gold-300 text-academic-900 px-3 sm:px-4 py-2 rounded-md transition-colors"
         >
           Apply now
-        </a>
+        </Link>
       </div>
     </header>
   )
